@@ -33,11 +33,18 @@ def collatz_eval (i, j) :
     max = 0
     tmp = 0
 
-    while i <= j :
-        tmp = cycle_length(i);
+    if(i < j) : 
+        first = i
+        last = j
+    else :
+        first = j
+        last = i
+
+    while first <= last :
+        tmp = cycle_length(first);
         if(tmp > max) :
             max = tmp;
-        i += 1
+        first += 1
 
     return max
 
