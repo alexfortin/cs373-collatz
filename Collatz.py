@@ -62,7 +62,6 @@ def collatz_eval (i, j) :
         first += 1
     return max
     
-
 # -------------
 # collatz_print
 # -------------
