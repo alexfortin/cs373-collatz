@@ -30,6 +30,7 @@ def collatz_eval (i, j) :
     return the max cycle length of the range [i, j]
     """
     # <your code>
+    cache = [0] * 1000000
     max = 0
 
     if(i < j) : 
@@ -46,8 +47,16 @@ def collatz_eval (i, j) :
             if (n % 2) == 0 :
                 n = (n // 2)
             else :
-                n = (3 * n) + 1
+                   n = (3 * n) + 1
             c += 1
+                
+            if (n < 1000000) :
+                if(cache[n] != 0) : 
+                    c += cache[n] - 1
+                    n = 1;
+
+        if(cache[first] == 0) :
+            cache[first] = c
         if c > max :
             max = c
         first += 1
