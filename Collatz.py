@@ -39,7 +39,10 @@ def collatz_eval (i, j) :
     else :
         first = j
         last = i
-
+    """
+    Optimized
+    """
+    
     while first <= last :
         n = first;
         c = 1
