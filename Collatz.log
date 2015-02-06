@@ -1,0 +1,77 @@
+commit b1daeff9c72271996e7288e890122a0012c133c6
+Author: Alex Fortin <alexfortin@utexas.edu>
+Date:   Thu Feb 5 18:01:45 2015 -0600
+
+    Finished testing
+
+commit 202489ae24475e99178a15200ac5410846bf42b1
+Author: Alex Fortin <alexfortin@utexas.edu>
+Date:   Thu Feb 5 16:18:36 2015 -0600
+
+    Optimized code
+
+commit 866a1ad9bb4280314e0e51f9c3eab57c48d51973
+Author: Alex Fortin <alexfortin@utexas.edu>
+Date:   Wed Feb 4 19:58:20 2015 -0600
+
+    Added acceptance tests closes #15
+
+commit 1ac0fdd37d141ffa5c4553b87da1ee4f9956a652
+Author: Alex Fortin <alexfortin@utexas.edu>
+Date:   Sat Jan 31 18:04:24 2015 -0600
+
+    Fixed caching issue closes #26
+
+commit 7a203d59cdb7a5d740119761624f172335390b8f
+Author: Alex Fortin <alexfortin@utexas.edu>
+Date:   Sat Jan 31 18:03:15 2015 -0600
+
+    Fix oob for numbers higher than 1000000 closes #25
+
+commit cb4887856793f53622e73659f712f0d10d49922c
+Author: Alex Fortin <alexfortin@utexas.edu>
+Date:   Sat Jan 31 18:01:05 2015 -0600
+
+    Implemented simple cache closes #18
+
+commit ac3709b7e20c8d6e88f0fae83755bf200ecf7d40
+Author: Alex Fortin <alexfortin@utexas.edu>
+Date:   Sat Jan 31 16:43:57 2015 -0600
+
+    Sphere accepted solution closes #13, closes #14, closes #11
+
+commit 20e26a460c75be6f78b85ab2e9cb116df6bab741
+Author: Alex Fortin <alexfortin@utexas.edu>
+Date:   Sat Jan 31 15:58:40 2015 -0600
+
+    Fix reverse input closes #23
+
+commit a11baa448b48037b5f03e877ce254f6a79aaf94d
+Author: Alex Fortin <alexfortin@utexas.edu>
+Date:   Sat Jan 31 15:50:28 2015 -0600
+
+    Simple solution to collatz closes #10
+
+commit 7844c86456e55cbad4209a6d9c670af9cdaa4fcc
+Author: Alex Fortin <alexfortin@utexas.edu>
+Date:   Sat Jan 31 15:21:29 2015 -0600
+
+    Added more unit tests closes #9
+
+commit a2fc61b8c320d7723d3dea8809e37b7126607542
+Author: Alex Fortin <alexfortin@utexas.edu>
+Date:   Sat Jan 31 15:17:10 2015 -0600
+
+    Fixed unit tests closes #8
+
+commit 6b371e939f87ae3d53a20d3c083578f009ba70f2
+Author: Alex Fortin <alexfortin@utexas.edu>
+Date:   Sat Jan 31 15:09:32 2015 -0600
+
+    Run and test working correctly closes #7
+
+commit 802a9b7ac3fe29c31fd5c90c6397126203841c4a
+Author: Alex Fortin <alexfortin@utexas.edu>
+Date:   Sat Jan 31 14:58:31 2015 -0600
+
+    Initial commit closes #4, #5, #6
