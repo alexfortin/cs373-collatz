@@ -1,0 +1,24 @@
+af22574
+5/5 github setup and commit log
+5/5 github issues
+15/15 sphere and cache
+15/15 average of 3 unit test per function
+15/15 100 lines of acceptance test
+10/10 Pydoc
+5/5 Google Form with time estimate.
+2/0 bonus and panalty points
+58/70 total
+comment:
+Did not submit the Google Form -14
+Bonus:
+    crt685 Failed
+    csm2556 Passed
+    da9492 Passed
+    dl26254 Passed
+    dm37537 Passed
+Penalty:
+    nrc523 Passed
+    ojl85 Passed
+    om3799 Passed
+    pbb388 Passed
+    pht93 Passed
